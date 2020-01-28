@@ -1,3 +1,8 @@
 production v1.0
 production v1.1
+<<<<<<< HEAD
 Bugfix v1.2
+=======
+production v2.0
+>>>>>>> enh
+Fixed merge
